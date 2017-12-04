@@ -42,5 +42,5 @@ while thestep==1:
         data = [['姓名', '身份证', '手机', '卡号']]
     pagenum += 1
 
-    
+
 
